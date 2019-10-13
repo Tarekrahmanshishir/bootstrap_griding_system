@@ -1,0 +1,8 @@
+section{
+	border: 3px solid black;
+	margin-bottom: 5px; 
+}
+.box{
+	height: 45px;
+	background-color: green;
+}
